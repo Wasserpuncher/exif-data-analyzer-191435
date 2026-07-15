@@ -23,7 +23,7 @@ A professional Python tool designed for the extraction and analysis of EXIF (Exc
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/exif-data-analyzer.git
+    git clone https://github.com/Wasserpuncher/exif-data-analyzer-191435.git
     cd exif-data-analyzer
     ```
 
